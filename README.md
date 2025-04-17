@@ -6,3 +6,6 @@ It includes:
 2. Estimated point estimators of the nine effect indices
 3. Corresponding analytical confidence interval limits
 4. Code for plotting and summarizing simulation results
+
+* References *
+Vancak, V., & Sjölander, A. (n.d.). Definition, identification, and estimation of the direct and indirect number needed to treat
