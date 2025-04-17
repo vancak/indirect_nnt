@@ -1,3 +1,4 @@
+### Simulation source code
 This repository contains the source code and output data for the simulation study presented in the paper Definition, Identification, and Estimation of the Direct and Indirect Number Needed to Treat by Valentin Vancak and Arvid Sjölander.
 
 It includes:
