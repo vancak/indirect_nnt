@@ -8,6 +8,5 @@ It includes:
 4. Code for plotting and summarizing simulation results
 
 ### References
-
-1. Vancak, V., & Sjölander, A. (n.d.). *Definition, identification, and estimation of the direct and indirect number needed to treat*
+Vancak, V., & Sjölander, A. (n.d.). *Definition, identification, and estimation of the direct and indirect number needed to treat*
 
