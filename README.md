@@ -4,7 +4,7 @@ This repository contains the source code and output data for the simulation stud
 It includes:
 
 1. Full simulation scripts for the double logit and double probit models
-2. Estimated point estimators of the nine effect indices
+2. Point estimators of the nine effect indices
 3. Corresponding analytical confidence interval limits
 4. Code for plotting and summarizing simulation results
 
