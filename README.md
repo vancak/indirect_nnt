@@ -9,5 +9,5 @@ It includes:
 4. Code for plotting and summarizing simulation results
 
 ### References
-V. Vancak & A. Sjölander, Definition, identification, and estimation of the direct and indirect number needed to treat, [arXiv](https://arxiv.org/abs/2504.16912)
+Vancak, V. & Sjölander, A. (2025). Definition, identification, and estimation of the direct and indirect number needed to treat. Epidemiologic Methods, 14(1), 20250018. [https://doi.org/10.1515/em-2025-0018]
 
